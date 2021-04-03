@@ -37,7 +37,9 @@ or
 
 Supporting the progress of this project via 
 
-- [Paypal](https://www.paypal.com/paypalme/mathemodica) (single time payment)
-- [GitHub](https://github.com/sponsors/AtiyahElsheikh) (periodic payment) or  
+- [Paypal](https://www.paypal.com/paypalme/mathemodica) (single time payment) 
+
+or 
+- [GitHub](https://github.com/sponsors/AtiyahElsheikh) (periodic payment)  
 
 is appreciable. Suitable acknolwedgement with organization logos is granted for considerable amount.  
