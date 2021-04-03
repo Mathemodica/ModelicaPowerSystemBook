@@ -29,8 +29,9 @@ First Edition can be pre-ordered for
 Pre-order 
 - Edition 1.0 [here](https://gum.co/mathemodica-powsys)
 - Edition 1.0 for free [here](https://gum.co/mathemodica-powsys-free)
+
 or 
-Buy the actual version [here](https://gum.co/mathemodica-powsys-actual) 
+- buy the actual version [here](https://gum.co/mathemodica-powsys-actual) 
 
 #### Other ways
 
