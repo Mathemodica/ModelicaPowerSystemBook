@@ -21,7 +21,7 @@ To appear Sep. the first of 2021
 
 First Edition can be pre-ordered for 
 
-* Free (students, those who cannot purchase it or think this is such a bad book)
+* Free (students, those who cannot purchase it)
 * As-much-As-You-Think-This-Book-Deserves 
 
 #### Purchase
@@ -35,7 +35,6 @@ Buy the actual release [here](https://gum.co/mathemodica-powsys-actual)
 Supporting the progress of this project via 
 
 - [Paypal](https://www.paypal.com/paypalme/mathemodica) (one time payment)
-- [GitHub](https://github.com/sponsors/AtiyahElsheikh) (periodic payment) or 
-- [Patreon](https://www.patreon.com/mathemodica) (periodic payment) 
+- [GitHub](https://github.com/sponsors/AtiyahElsheikh) (periodic payment) or  
 
-is highly appreciable. Suitable acknolwedgement is granted.  
+is appreciable. Suitable acknolwedgement is granted for considerable amount.  
