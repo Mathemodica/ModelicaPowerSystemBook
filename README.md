@@ -26,15 +26,17 @@ First Edition can be pre-ordered for
 
 #### Purchase
 
-Pre-order Edition 1.0 [here](https://gum.co/mathemodica-powsys)
+Pre-order 
+- Edition 1.0 [here](https://gum.co/mathemodica-powsys)
+- Edition 1.0 for free [here](https://gum.co/mathemodica-powsys-free)
 or 
-Buy the actual release [here](https://gum.co/mathemodica-powsys-actual) 
+Buy the actual version [here](https://gum.co/mathemodica-powsys-actual) 
 
 #### Other ways
 
 Supporting the progress of this project via 
 
-- [Paypal](https://www.paypal.com/paypalme/mathemodica) (one time payment)
+- [Paypal](https://www.paypal.com/paypalme/mathemodica) (single time payment)
 - [GitHub](https://github.com/sponsors/AtiyahElsheikh) (periodic payment) or  
 
-is appreciable. Suitable acknolwedgement is granted for considerable amount.  
+is appreciable. Suitable acknolwedgement with organization logos is granted for considerable amount.  
