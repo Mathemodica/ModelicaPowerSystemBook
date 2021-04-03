@@ -21,14 +21,14 @@ To appear Sep. the first of 2021
 
 First Edition can be pre-ordered for 
 
-* Free (students, those who cannot purchase it)
+* Free (students and / or those who cannot purchase it)
 * As-much-As-You-Think-This-Book-Deserves 
 
 #### Purchase
 
 Pre-order 
 - Edition 1.0 [here](https://gum.co/mathemodica-powsys)
-- Edition 1.0 for free [here](https://gum.co/mathemodica-powsys-free)
+- Edition 1.0 for free [here](https://gum.co/mathemodica-powsys-free) 
 
 or 
 - buy the actual version [here](https://gum.co/mathemodica-powsys-actual) 
