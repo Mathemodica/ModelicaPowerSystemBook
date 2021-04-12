@@ -1,19 +1,27 @@
 # ModelicaPowerSystemBook
 A book with the title: Modelica-based Technologies for Power System Modeling Applications
 
+## Cover
+
+![alt text](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/MPSCoverActual.png)
+
 ## About 
 
 #### Abstract
 
 This is a comprehensive but a concise and educational e-book aiming at advertising Modelica-based technologies particularly useful for power system modeling applications. Whatever aspect that could be useful has been included, to the best of author's knowledge. We hope that this booklet to be useful not only for power system modelers desiring to get a quick idea about the benefits of employing Modelica but also for those Modelica modelers desiring a starting guide into the world of Power System Modeling applications.  
 
-#### Outline 
-
-view [here](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ModelicaPowerSys-outline.pdf)
-
 #### 1st Edition
 
 To appear Sep. the first of 2021
+
+#### Outline 
+
+view actual outline [here](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ModelicaPowerSys-outline.pdf)
+
+![alt text](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ContentsIActual.png)
+![alt text](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ContentsIIActual.png)
+![alt text](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ContentsIIIActual.png)
 
 ## Sponsorship
 
@@ -30,16 +38,22 @@ Pre-order
 - Edition 1.0 [here](https://gum.co/mathemodica-powsys)
 - Edition 1.0 for free [here](https://gum.co/mathemodica-powsys-free) 
 
-or 
-- buy the actual version [here](https://gum.co/mathemodica-powsys-actual) 
+#### Get the actual release 
 
-#### Other ways
+by sponsoring this project. 
 
-Supporting the progress of this project via 
+- buy the actual version [here](https://gum.co/mathemodica-powsys-sponsorship) 
+
+#### How to sponsor this project? 
+
+via 
 
 - [Paypal](https://www.paypal.com/paypalme/mathemodica) (single time payment) 
 - [Gumroad](https://gum.co/mathemodica-powsys-sponsorship) (single-time payment or periodic payment)
 or
 - [GitHub](https://github.com/sponsors/AtiyahElsheikh) (periodic payment)  
 
-is appreciable. Suitable acknolwedgement with organization logos is granted for considerable amount.  
+#### Acknowledgment & Recognition 
+
+Suitable acknolwedgement with organization logos is granted for considerable amount.   
+
