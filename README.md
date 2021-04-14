@@ -1,5 +1,4 @@
 # ModelicaPowerSystemBook
-A book with the title: Modelica-based Technologies for Power System Modeling Applications
 
 ## Cover
 
@@ -19,9 +18,9 @@ To appear Sep. the first of 2021
 
 view actual outline [here](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ModelicaPowerSys-outline.pdf)
 
-![alt text](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ContentsIActual.png)
-![alt text](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ContentsIIActual.png)
-![alt text](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ContentsIIIActual.png)
+![Contents 1st page](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ContentsIActual.png)
+![Cpntents 2nd paget](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ContentsIIActual.png)
+![Contents 3rd page](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ContentsIIIActual.png)
 
 ## Sponsorship
 
