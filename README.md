@@ -3,7 +3,7 @@ A book with the title: Modelica-based Technologies for Power System Modeling App
 
 ## Cover
 
-![alt text](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/MPSCoverActual.png)
+![Cover](MPSCoverActual.png)
 
 ## About 
 
