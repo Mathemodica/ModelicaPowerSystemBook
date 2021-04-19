@@ -43,11 +43,11 @@ To arrive 1st of Sep. by Email.
 
 ## Sponsorship 
 
-#### Get the actual release 
+#### Get a permanent access to the actual release towards version 1.0
 
 by sponsoring this project. 
 
-- Buy the actual version [here](https://gum.co/mathemodica-powsys-sponsorship) (Periodic payment but you can cancel the payment at any time)
+- Get access to the actual and future versions towards Edition 1.0 [here](https://gum.co/mathemodica-powsys-sponsorship) (Periodic payment but you can cancel the payment at any time)
 
 #### How to sponsor the maintenance and progress of this book? 
 
