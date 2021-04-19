@@ -30,8 +30,8 @@ Get actualized news on future updates by subscribing to the newsletter https://g
 
 First Edition can be pre-ordered for 
 
-* Free (students and / or those who cannot purchase it)
-* As-much-As-You-Think-This-Book-Deserves 
+* Free or 
+* As-much-As-You-Think-This-Book-Deserves (as an encouragement for similar future initiatives) 
 
 #### Purchase
 
