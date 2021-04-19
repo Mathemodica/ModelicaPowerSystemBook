@@ -52,7 +52,5 @@ via
 or
 - [GitHub](https://github.com/sponsors/AtiyahElsheikh) (periodic payment)  
 
-#### Acknowledgment & Recognition 
 
-Suitable acknolwedgement with organization logos is granted for considerable amount.   
 
