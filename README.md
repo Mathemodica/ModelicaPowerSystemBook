@@ -1,5 +1,10 @@
 # Modelica by Application -- Power System 
 
+## Release Notes 
+
+- 2021-04-14 V0.3 : First public announcement 
+- 2021-04-21 V0.3.1 : Outline of the book added in Ch. 1 + minor formatting improvements  
+
 ## Cover
 
 ![Cover](MPSCoverActual.png)
@@ -14,7 +19,7 @@ This is a comprehensive but a concise and educational e-book aiming at advertisi
 
 To appear Sep. the first of 2021
 
-#### Outline (Current Release V0.3)
+#### Outline (Current Release V0.3.1)
 
 view actual outline [here](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ModelicaPowerSys-outline.pdf)
 
