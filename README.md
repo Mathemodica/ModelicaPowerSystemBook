@@ -11,7 +11,7 @@
 
 ## About 
 
-#### Abstract
+#### Summary 
 
 This is a comprehensive but a concise and educational e-book aiming at advertising Modelica-based technologies particularly useful for power system modeling applications. Whatever aspect that could be useful has been included, to the best of author's knowledge. We hope that this printable booklet to be useful not only for power system modelers desiring to get a quick but compact idea about the benefits of employing Modelica but also for those Modelicans desiring a starting guide into the world of Power System Modeling applications.  
 
@@ -21,11 +21,15 @@ To appear Sep. the first of 2021
 
 #### Outline (Current Release V0.3.1)
 
-view actual outline [here](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ModelicaPowerSys-outline.pdf)
+view [actual outline](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ModelicaPowerSys-outline.pdf)
 
 ![Contents 1st page](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ContentsIActual.png)
 ![Cpntents 2nd paget](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ContentsIIActual.png)
 ![Contents 3rd page](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ContentsIIIActual.png)
+
+#### Sample Chapters 
+
+- [Chapter 1](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/samples/MPS_ActualVersion_Towards1.0-Ch1.pdf)
 
 ## Subscription 
 
