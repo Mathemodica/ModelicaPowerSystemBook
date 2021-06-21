@@ -2,8 +2,9 @@
 
 ## Release Notes 
 
-- 2021-04-14 V0.3 : First public announcement 
+- 2021-04-14 V0.3   : First public announcement 
 - 2021-04-21 V0.3.1 : Outline of the book added in Ch. 1 + minor formatting improvements  
+- 2021-06-21 V0.4   : Improved formulation, Improved formatting (1st 6 chapters), improved bibliography style, linkes to Modelica by Examples, new cover and new pictures  
 
 ## Cover
 
