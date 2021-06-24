@@ -20,7 +20,7 @@ This is a comprehensive but a concise and educational e-book aiming at advertisi
 
 To appear Sep. the first of 2021
 
-#### Outline (Current Release V0.3.1)
+#### Outline (Current Release V0.4)
 
 view [actual outline](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ModelicaPowerSys-outline.pdf)
 
@@ -58,6 +58,7 @@ To be delivered 1st of Sep. by Email.
 by sponsoring this project. 
 
 - Get access to the actual and future versions towards Edition 1.X [here](https://gum.co/mathemodica-powsys-sponsorship) (Periodic payment but you can cancel the payment at any time)
+- encourage and accelerate similar initiatives 
 
 #### How to sponsor the maintenance and progress of this book? 
 
