@@ -43,6 +43,8 @@ First Edition can be pre-ordered for
 * Free or 
 * As-much-As-You-Think-This-Book-Deserves (as an encouragement for similar future initiatives) 
 
+Suggested amount is 39$ but feel free to pay much less (or much more) or even obtain a free identical version if you cannot purchase the book whatever the reason is. 
+
 #### Purchase
 
 Pre-order 
@@ -55,7 +57,7 @@ To be delivered 1st of Sep. by Email.
 
 #### Get a permanent access to the actual release towards versions 1.*   
 
-by sponsoring this project. 
+By sponsoring this project. 
 
 - Get access to the actual and future versions towards Edition 1.X [here](https://gum.co/mathemodica-powsys-sponsorship) (Periodic payment but you can cancel the payment at any time)
 - encourage and accelerate similar initiatives 
