@@ -5,6 +5,7 @@
 - 2021-04-14 V0.3   : First public announcement 
 - 2021-04-21 V0.3.1 : Outline of the book added in Ch. 1 + minor formatting improvements  
 - 2021-06-21 V0.4   : Improved formulation, Improved formatting (1st 6 chapters), improved bibliography style, linkes to Modelica by Examples, new cover and new pictures  
+- 2021-07-10 V0.5   : Improved formulation and formatting of later chapters of the book. A section on commercial libraries.  
 
 ## Cover
 
@@ -30,7 +31,9 @@ view [actual outline](https://github.com/Mathemodica/ModelicaPowerSystemBook/blo
 
 #### Sample Chapters 
 
-- [Chapter 1](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/samples/MPS_ActualVersion_Towards1.0-Ch1.pdf)
+- [Chapter 1: Introduction](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/samples/MPS_ActualVersion_Towards1.0-Ch1.pdf)
+- [Chapter 7: Current State of Modelica](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/samples/MPS_ActualVersion_Towards1.0-Ch7.pdf)
+- [Chapter 8: Relevant Modelica Libraries](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/samples/MPS_ActualVersion_Towards1.0-Ch8.pdf)
 
 ## Subscription 
 
@@ -69,3 +72,9 @@ via
 - [Gumroad](https://gum.co/mathemodica-powsys-sponsorship) (single-time payment or periodic payment)
 or
 - [GitHub](https://github.com/sponsors/AtiyahElsheikh) (periodic payment)  
+
+##### To concerned organizations 
+
+Probably sponsorship would be best suited from organizations benefiting from having such works being disclosed, published and spread. Usually a specific amount of budget in some organizations, departments,institutes etc. should be spend before the end of the financial year. If there is a confusion how to spend available money, I would appreciate a sponsorship in form of donation that would allow to accelerate the progress of this book, among other initiatives that are in confermance with Open Science initiative.
+
+If you are a representative of an organization which would like to sponsor this work, pleaselet us know what would you like to see in order to sponsor this work
