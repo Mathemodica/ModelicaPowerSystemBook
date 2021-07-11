@@ -75,6 +75,6 @@ or
 
 ##### To concerned organizations 
 
-Probably sponsorship would be best suited from organizations benefiting from having such works being disclosed, published and spread. Usually a specific amount of budget in some organizations, departments,institutes etc. should be spend before the end of the financial year. If there is a confusion how to spend available money, I would appreciate a sponsorship in form of donation that would allow to accelerate the progress of this book, among other initiatives that are in confermance with Open Science initiative.
+Probably sponsorship would be best suited from organizations benefiting from having such works being disclosed, published and spread. A sponsorship allowing to accelerate the progress of this book, among other initiatives that are in confermance with Open Science initiative is appreciated.
 
-If you are a representative of an organization which would like to sponsor this work, pleaselet us know what would you like to see in order to sponsor this work
+If you are a representative of an organization which would like to sponsor this work, please let us know what would you like to see in order to sponsor this work
