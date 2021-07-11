@@ -21,6 +21,10 @@ This is a comprehensive but a concise and educational e-book aiming at advertisi
 
 To appear Sep. the first of 2021
 
+#### License 
+
+This book is provided under the terms of [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 #### Outline (Current Release V0.5)
 
 view [actual outline](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ModelicaPowerSys-outline.pdf)
