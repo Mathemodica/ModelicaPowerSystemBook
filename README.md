@@ -16,7 +16,7 @@
 
 #### Summary 
 
-This is a comprehensive but a concise and educational e-book aiming at advertising Modelica-based technologies particularly useful for power system modeling applications. Whatever aspect that could be useful has been included, to the best of author's knowledge. We hope that this printable booklet to be useful not only for power system modelers desiring to get a quick but compact idea about the benefits of employing Modelica but also for those Modelicans desiring a starting guide into the world of Power System Modeling applications.  
+This is a comprehensive but a concise and educational e-book aiming at advertising Modelica-based technologies particularly useful for power system modeling applications. We hope that this printable booklet to be useful not only for power system modelers desiring to get a quick but compact idea about the benefits of employing Modelica but also for those Modelicans desiring a starting guide into the world of Power System Modeling applications.  
 
 #### 1st Edition
 
