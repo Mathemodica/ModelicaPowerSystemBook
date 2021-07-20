@@ -6,7 +6,7 @@
 - 2021-04-21 V0.3.1 : Outline of the book added in Ch. 1 + minor formatting improvements  
 - 2021-06-21 V0.4   : Improved formulation, Improved formatting (1st 6 chapters), improved bibliography style, linkes to Modelica by Examples, new cover and new pictures  
 - 2021-07-10 V0.5   : Improved formulation and formatting of later chapters of the book. A section on commercial libraries. 
-- 2021-07-10 v0.5.1 : More relevant references and section 7.9 Educational materials is separated into two sections Books & Education efforts  
+- 2021-07-19 v0.5.1 : More relevant references and section 7.9 Educational materials is separated into two sections Books & Education efforts  
 
 ## Cover
 
