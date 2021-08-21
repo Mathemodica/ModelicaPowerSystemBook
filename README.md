@@ -1,5 +1,9 @@
 # Modelica by Application -- Power System 
 
+## Sponsorship 
+
+Drop an email to PowerSystem-at-mathemodica.com if you'd like to advertise your products or put the logo of your company on the book
+
 ## Release Notes 
 
 - 2021-04-14 V0.3   : First public announcement 
