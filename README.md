@@ -2,7 +2,7 @@
 
 ## Sponsorship 
 
-Drop an email to PowerSystemBook-at-mathemodica.com if you'd like to advertise your products or place the logo of your company at an early page of the book. However, the authors have the right to refuse or reject specific requests without stating the reasons. 
+Drop an email to PowerSystemBook-at-mathemodica.com if you'd like to advertise your products or place the logo of your company at an early page of the book. However, the authors have the right to refuse or reject a specific request without stating the reasons. 
 
 ## Release Notes 
 
