@@ -62,4 +62,4 @@ Pre-order
 - Edition 1.0 [here](https://gum.co/mathemodica-powsys)
 - Edition 1.0 for free [here](https://gum.co/mathemodica-powsys-free) 
 
-To be delivered 1st of Sep. by Email.
+To be delivered 5th of Sep. by Email.
