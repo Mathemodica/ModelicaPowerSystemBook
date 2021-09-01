@@ -1,3 +1,5 @@
+Update: Version 1.0 to be delivered on 5th of Sep. (instead of 1st of Sep.) 
+
 # Modelica by Application -- Power System 
 
 ## Sponsorship 
