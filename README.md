@@ -1,4 +1,4 @@
-Update: Version 1.0 to be delivered on 5th of Sep. (instead of 1st of Sep.) 
+Update: Due to illness circumstances, version 1.0 to be delivered on 10th of Sep. (instead of 1st of Sep.) Apologize for the inconvenience. 
 
 # Modelica by Application -- Power System 
 
