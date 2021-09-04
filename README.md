@@ -27,7 +27,7 @@ This is a comprehensive but a concise and educational e-book aiming at advertisi
 
 #### 1st Edition
 
-To appear Sep. the first of 2021
+To appear Sep. the first of 2021 (Delay to 10th Sep. due to sickness, Sorry.)
 
 #### License 
 
