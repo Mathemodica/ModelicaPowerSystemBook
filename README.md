@@ -33,7 +33,7 @@ To appear Sep. the first of 2021 (Delay to 10th Sep. due to sickness, Sorry.)
 
 This book is provided under the terms of [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-#### Outline (Current Release V0.5)
+#### Outline (Current Release V1.0)
 
 view [actual outline](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ModelicaPowerSys-outline.pdf) (coming soon)
 
