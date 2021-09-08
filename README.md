@@ -35,7 +35,7 @@ This book is provided under the terms of [CC BY-NC-SA 4.0 license](https://creat
 
 #### Outline (Current Release V0.5)
 
-view [actual outline](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ModelicaPowerSys-outline.pdf)
+view [actual outline](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ModelicaPowerSys-outline.pdf) (coming soon)
 
 ![Contents 1st page](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ContentsIActual.png)
 ![Cpntents 2nd page](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ContentsIIActual.png)
