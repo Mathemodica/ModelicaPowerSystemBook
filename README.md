@@ -43,13 +43,14 @@ view [actual outline](https://github.com/Mathemodica/ModelicaPowerSystemBook/blo
 
 #### Sample Chapters 
 
+The following samples belong to version 0.5, still to be actualized soon: 
 - [Chapter 1: Introduction](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/samples/MPS_ActualVersion_Towards1.0-Ch1.pdf)
 - [Chapter 7: Current State of Modelica](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/samples/MPS_ActualVersion_Towards1.0-Ch7.pdf)
 - [Chapter 8: Relevant Modelica Libraries](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/samples/MPS_ActualVersion_Towards1.0-Ch8.pdf)
 
 ## Subscription 
 
-Get actualized news on future updates by subscribing to the newsletter https://gumroad.com/mathemodica
+Get actualized news on future content updates by subscribing to the newsletter https://gumroad.com/mathemodica
 
 ## Costs 
 
