@@ -1,5 +1,3 @@
-Update: Version 1.0 to be delivered on 10th of Sep, 9 PM CEST time. (instead of 1st of Sep.) Apologize for the inconvenience. 
-
 # Modelica by Application: Power Systems 
 
 ![Cover](MPSCoverActual.png)
