@@ -2,26 +2,21 @@ Update: Version 1.0 to be delivered on 10th of Sep, 9 PM CEST time. (instead of 
 
 # Modelica by Application: Power Systems 
 
-
 ![Cover](MPSCoverActual.png)
 
-## Outline (Current Release V1.0.1)
+## Outline (Current Release V1.0.2)
 
-view [actual outline](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ModelicaPowerSys-outline.pdf) (coming soon)
-
-![Contents 1st page](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ContentsIActual.png)
-![Cpntents 2nd page](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ContentsIIActual.png)
-![Contents 3rd page](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/ContentsIIIActual.png)
+view [actual outline on ResearchGate](https://www.researchgate.net/publication/353340102_Book_Outline_Modelica_by_Application_Power_Systems)
 
 ## About 
 
 #### Summary 
 
-This is a comprehensive but a concise and educational (e-)book aiming at advertising Modelica-based technologies, particularly useful for power system modeling applications. Whatever aspect that could be relevantly useful has been included,  to the best of the author’s knowledge and time.  We hope that this (e-)book is useful not only for powersystem modelers desiring to get a quick idea about the benefits of employing Modelicabut also for those Modelica modelers desiring a starting guide into the world of PowerSystems modeling applications.
+This is a comprehensive but a concise and educational (e-)book aiming at advertising Modelica-based technologies, particularly useful for power system modeling applications. Whatever aspect that could be relevantly useful has been included,  to the best of the author’s knowledge and time.  We hope that this (e-)book is useful not only for powersystem modelers desiring to get a quick idea about the benefits of employing Modelica but also for those Modelica modelers desiring a starting guide into the world of PowerSystems modeling applications.
 
 #### License 
 
-This book is provided under the terms of [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+This book is provided under the terms of [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/). See the outline on ResearchGate for more details. 
 
 #### Subscription 
 
@@ -54,4 +49,4 @@ The following samples belong to version 0.5, still to be actualized soon:
 - 2021-07-10 V0.5   : Improved formulation and formatting of later chapters of the book. A section on commercial libraries. 
 - 2021-07-19 V0.5.1 : More relevant references and section 7.9 Educational materials is separated into two sections Books & Education efforts  
 - 2021-07-21 V0.5.2 : Improved Bibliography style and minor formatting issue
-- 2021-09-10 V1.0.1 : New Chapter History of System Modeling, Open Questions section for most of the chapters, biography, new book logo
+- 2021-09-10 V1.0.2 : New Chapter History of System Modeling, Open Questions section for most of the chapters, biography, new book logo
