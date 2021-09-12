@@ -24,7 +24,7 @@ Order
 - Edition 1.0 [here](https://gum.co/mathemodica-powsys)
 - Edition 1.0 for free [here](https://gum.co/mathemodica-powsys-free) 
 
-To be delivered by Email.
+To be delivered by Email. Consider checking your junk folder.
 
 ### Sponsorship 
 
