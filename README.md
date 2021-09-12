@@ -12,11 +12,11 @@ This book is provided under the terms of [CC BY-NC-SA 4.0 license](https://creat
 
 ### Outline (Current Release V1.0.2)
 
-view [actual outline on ResearchGate(https://www.researchgate.net/publication/353340102_Book_Outline_Modelica_by_Application_Power_Systems)
+view [actual outline on ResearchGate](https://www.researchgate.net/publication/353340102_Book_Outline_Modelica_by_Application_Power_Systems)
 
 ### Project Update 
 
-Follow contents updates @ the scientific platform of the project on ResearchGate [https://www.researchgate.net/project/Book-Modelica-By-Application-Power-Systems]. Here you can also discuss the contents by commenting the uploaded outline.
+Follow contents updates @ [the scientific platform of the project on ResearchGate](https://www.researchgate.net/project/Book-Modelica-By-Application-Power-Systems). Here you can also discuss the contents by commenting the uploaded outline.
 
 ### Purchase
 
