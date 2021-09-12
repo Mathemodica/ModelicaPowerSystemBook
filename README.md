@@ -12,7 +12,7 @@ This book is provided under the terms of [CC BY-NC-SA 4.0 license](https://creat
 
 ### Outline (Current Release V1.0.2)
 
-view [actual outline on ResearchGate](https://www.researchgate.net/publication/353340102_Book_Outline_Modelica_by_Application_Power_Systems)
+view [actual outline on ResearchGate(https://www.researchgate.net/publication/353340102_Book_Outline_Modelica_by_Application_Power_Systems)
 
 ### Project Update 
 
