@@ -45,4 +45,4 @@ The following samples belong to version 0.5, still to be actualized soon:
 - 2021-07-10 V0.5   : Improved formulation and formatting of later chapters of the book. A section on commercial libraries. 
 - 2021-07-19 V0.5.1 : More relevant references and section 7.9 Educational materials is separated into two sections Books & Education efforts  
 - 2021-07-21 V0.5.2 : Improved Bibliography style and minor formatting issue
-- 2021-09-10 V1.0.2 : New Chapter History of System Modeling, A section on commercial libraries reported by library owners, Open Questions section for most of the chapters, biography of authors
+- 2021-09-10 V1.0.2 : New Chapter History of System Modeling, A section on commercial libraries to be reported by library owners, Open Questions section for most of the chapters, biography of authors
