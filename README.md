@@ -21,8 +21,8 @@ Follow contents updates @ [the scientific platform of the project on ResearchGat
 ### Purchase
 
 Order 
-- Edition 1.0 [here](https://gum.co/mathemodica-powsys)
-- Edition 1.0 for free [here](https://gum.co/mathemodica-powsys-free) 
+- Edition 1.0 [here via Gumroad](https://gum.co/mathemodica-powsys)
+- Edition 1.0 for free [here via Gumroad](https://gum.co/mathemodica-powsys-free) 
 
 To be delivered by Email. Consider checking your junk folder.
 
