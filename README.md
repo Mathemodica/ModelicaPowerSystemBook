@@ -10,7 +10,7 @@ This is a comprehensive but a concise and educational (e-)book aiming at adverti
 
 This book is provided under the terms of [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-### Outline (Current Release V1.0.2)
+### Outline (Current Release V1.0.3)
 
 View [actual outline on ResearchGate](https://www.researchgate.net/publication/353340102_Book_Outline_Modelica_by_Application_Power_Systems)
 
