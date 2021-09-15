@@ -39,3 +39,9 @@ Drop an email to PowerSystemBook-at-mathemodica.com if you'd like to place the l
 - 2021-07-19 V0.5.1 : More relevant references and section 7.9 Educational materials is separated into two sections Books & Education efforts  
 - 2021-07-21 V0.5.2 : Improved Bibliography style and minor formatting issue
 - 2021-09-14 V1.0.3 : New Chapter History of System Modeling, A section on commercial libraries to be reported by library owners, Open Questions section for most of the chapters, biography of authors
+
+## Issues and scientific contribution
+
+You may report any issues with using the [Issues](https://github.com/Mathemodica/ModelicaPowerSystemBook/issues) button.
+
+For Scientific contribution & Feed back, view [the outline on ResearchGate](https://www.researchgate.net/publication/353340102_Book_Outline_Modelica_by_Application_Power_Systems) are always welcome.
