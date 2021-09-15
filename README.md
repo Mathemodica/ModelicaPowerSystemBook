@@ -4,6 +4,10 @@
 
 This is a comprehensive but a concise and educational (e-)book aiming at advertising Modelica-based technologies, particularly useful for power system modeling applications. Whatever aspect that could be relevantly useful has been included,  to the best of the author’s knowledge and time.  We hope that this (e-)book is useful not only for powersystem modelers desiring to get a quick idea about the benefits of employing Modelica but also for those Modelica modelers desiring a starting guide into the world of PowerSystems modeling applications.
 
+### Costs 
+
+The e-book is both freely accessible and sponsorable on the basis of pay-as-much-as-you-think the e-book deserves. It is hoped that this e-book becomes community-driven and remain maintianable and actualized on a regular basis. 
+
 ![Cover](MPSCoverActual.png)
 
 ### License 
@@ -40,7 +44,7 @@ Drop an email to PowerSystemBook-at-mathemodica.com if you'd like to place the l
 - 2021-07-21 V0.5.2 : Improved Bibliography style and minor formatting issue
 - 2021-09-14 V1.0.3 : New Chapter History of System Modeling, A section on commercial libraries to be reported by library owners, Open Questions section for most of the chapters, biography of authors
 
-## Issues and scientific contribution
+### Issues and scientific contribution
 
 You may report any issues with using the [Issues](https://github.com/Mathemodica/ModelicaPowerSystemBook/issues) button.
 
