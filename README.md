@@ -22,6 +22,12 @@ View [actual outline on ResearchGate](https://www.researchgate.net/publication/3
 
 Follow contents updates @ [the scientific platform of the project on ResearchGate](https://www.researchgate.net/project/Book-Modelica-By-Application-Power-Systems). Here you can also discuss the contents by commenting the uploaded outline.
 
+### Sample Chapters 
+
+[Ch. 9 Relevant Modelica Libaries](https://www.researchgate.net/publication/354619412_Relevant_Modelica_Libraries)
+
+Library developers or owners can report their library by commenting this chapter. The provided description shall not exceed 100 words. As many references as desired and a URL can be provided. 
+
 ### Purchase
 
 Order 
@@ -32,7 +38,7 @@ To be delivered by Email. Consider checking your junk folder.
 
 ### Sponsorship 
 
-Drop an email to PowerSystemBook-at-mathemodica.com if you'd like to place the logo of your organization at an early page of the book. However, the authors have the right to refuse or reject a non relevant request without stating the reasons. 
+Drop an email to PowerSystemBook-at-mathemodica.com if you'd like to place the logo of your organization or product at an early page of the book. However, the authors have the right to refuse or reject a non relevant request without stating the reasons. 
 
 ### Release Notes 
 
