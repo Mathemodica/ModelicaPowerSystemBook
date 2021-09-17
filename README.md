@@ -20,7 +20,7 @@ View [actual outline on ResearchGate](https://www.researchgate.net/publication/3
 
 ### Project Update 
 
-Follow contents updates @ [the scientific platform of the project on ResearchGate](https://www.researchgate.net/project/Book-Modelica-By-Application-Power-Systems). Here you can also discuss the contents by commenting the uploaded outline.
+Follow contents updates @ [the scientific platform of the project on ResearchGate](https://www.researchgate.net/project/Book-Modelica-By-Application-Power-Systems). Here you can also discuss the contents by commenting the uploaded outline or the relevant chapters. You can provide feedback, suggestions and light contributions.
 
 ### Sample Chapters 
 
