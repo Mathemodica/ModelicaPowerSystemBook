@@ -28,13 +28,17 @@ Follow contents updates @ [the scientific platform of the project on ResearchGat
 
 Library developers or owners can report their library by commenting this chapter. The provided description shall not exceed 100 words. As many references as desired and a URL can be provided. 
 
-### Purchase
+### Re-Purchase
 
 Order 
 - Edition 1.0 [here via Gumroad](https://gum.co/mathemodica-powsys)
 - Edition 1.0 for free [here via Gumroad](https://gum.co/mathemodica-powsys-free) 
 
 To be delivered by Email. Consider checking your junk folder.
+
+#### Remark 
+
+Consider re-purchasing from time to time due to regular or occoasional contents update.
 
 ### Sponsorship 
 
