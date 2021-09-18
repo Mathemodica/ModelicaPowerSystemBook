@@ -34,11 +34,13 @@ Order
 - Edition 1.0 [here via Gumroad](https://gum.co/mathemodica-powsys)
 - Edition 1.0 for free [here via Gumroad](https://gum.co/mathemodica-powsys-free) 
 
-To be delivered by Email. Consider checking your junk folder.
+To be delivered by Email. 
 
 #### Remark 
 
-Consider re-purchasing from time to time due to regular or occoasional contents update.
+* Consider re-purchasing from time to time due to regular or occoasional contents update
+*  In order to obtain the e-book at a gumroad, place a number (your suggested amount) in the box "name a fair price" and the press the button "add to card", or the button "I want this!" or the button "Buy this". Afterwords, insert your email address and press "get"
+*  If you don't get an email immediately, consider checking your junk folder.
 
 ### Sponsorship 
 
