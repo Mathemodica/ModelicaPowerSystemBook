@@ -26,7 +26,7 @@ Follow contents updates @ [the scientific platform of the project on ResearchGat
 
 [Ch. 9 Relevant Modelica Libaries](https://www.researchgate.net/publication/354619412_Relevant_Modelica_Libraries)
 
-Library developers or owners can report their library by commenting this chapter. The provided description shall not exceed 100 words. As many references as desired and a URL can be provided. 
+Library developers or owners can report their library by commenting this chapter. The provided description shall not exceed 100 words. As many references as desired and a URL can be provided. For signficant contributions, consider contacting us in advance. View contact details and involvement conditions in the outline. 
 
 ### Re-Purchase
 
