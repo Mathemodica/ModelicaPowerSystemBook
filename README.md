@@ -61,3 +61,7 @@ Drop an email to PowerSystemBook-at-mathemodica.com if you'd like to place the l
 You may report any issues with using the [Issues](https://github.com/Mathemodica/ModelicaPowerSystemBook/issues) button.
 
 For Scientific contribution & Feed back, view [the outline on ResearchGate](https://www.researchgate.net/publication/353340102_Book_Outline_Modelica_by_Application_Power_Systems).
+
+### Contact Us
+
+PowerSystemBook - at - mathemodica.com
