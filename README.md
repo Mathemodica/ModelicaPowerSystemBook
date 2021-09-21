@@ -26,7 +26,7 @@ Experts are welcome to participate passively (by using comments for light report
 
 ### Ch. 9 Relevant Modelica Libraries
 
-[Ch. 9 Relevant Modelica Libaries](https://www.researchgate.net/publication/354619412_Relevant_Modelica_Libraries)
+[Ch. 9 Relevant Modelica Libaries (ResearchGate)](https://www.researchgate.net/publication/354619412_Relevant_Modelica_Libraries)
 
 Library developers or owners can report or actualize their library by commenting this chapter. The provided description shall not exceed 100 words. As many references as desired and a URL can be provided. For signficant contributions, consider contacting us in advance. View contact details and involvement conditions in the outline. 
 
