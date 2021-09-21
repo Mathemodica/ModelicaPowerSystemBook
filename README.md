@@ -36,6 +36,8 @@ Order
 
 To be delivered by Email. 
 
+**Privacy notice** Private data including email addresses and amount of payment shall not be disclosed. 
+
 #### Remark 
 
 * Consider re-purchasing from time to time due to regular or occoasional contents update
