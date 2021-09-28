@@ -33,7 +33,7 @@ Library developers or owners can report or actualize their library by commenting
 ### Re-Purchase
 
 Order 
-- Edition 1.0 [here via Gumroad](https://gum.co/mathemodica-powsys)
+- Edition 1.0 [here via Gumroad](https://gum.co/mathemodica-powsys) (you are contributing to the maintenance of this e-book & encouraging similar future initiatives)  
 - Edition 1.0 for free [here via Gumroad](https://gum.co/mathemodica-powsys-free) 
 
 To be delivered by Email. 
