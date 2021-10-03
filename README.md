@@ -18,6 +18,21 @@ This book is provided under the terms of [CC BY-NC-SA 4.0 license](https://creat
 
 View [actual outline on ResearchGate](https://www.researchgate.net/publication/353340102_Book_Outline_Modelica_by_Application_Power_Systems)
 
+### (Re-)Purchase
+ 
+- Edition 1.0.3 [here via Gumroad](https://gum.co/mathemodica-powsys) (you are contributing to the enhancement and maintenance of this e-book & encouraging similar future initiatives)  
+- Edition 1.0.3 for free [here via Gumroad](https://gum.co/mathemodica-powsys-free) (feedback is appreciated).  
+
+To be delivered by Email. 
+
+**Privacy notice** Private data including email addresses and amount of payment shall not be disclosed. 
+
+#### Remarks 
+
+* Consider re-purchasing from time to time due to regular or occoasional contents update. Check the actual version. Significant content changes shall be reflected by the number y in version x.y.z ( e.g. version 1.1.3 has major enhancements in comparison with version 1.0.5)
+*  In order to obtain the e-book at a gumroad, place a number (your suggested amount) in the box "name a fair price" and the press the button "add to card", or the button "I want this!" or the button "Buy this". Afterwords, insert your email address and press "get"
+*  If you don't get an email immediately, consider checking your junk folder.
+
 ### Project Update 
 
 Follow contents updates @ [the scientific platform of the project on ResearchGate](https://www.researchgate.net/project/Book-Modelica-By-Application-Power-Systems). Here you can also discuss the contents by commenting the uploaded outline or the relevant chapters (to be uploaded later). You can provide feedback, suggestions and light contributions. 
@@ -30,26 +45,19 @@ Experts are welcome to participate passively (by using comments for light report
 
 Library developers or owners can report or actualize their library by commenting this chapter. The provided description shall not exceed 100 words. As many references as desired and a URL can be provided. For signficant contributions, consider contacting us in advance. View contact details and involvement conditions in the outline. 
 
-### (Re-)Purchase
- 
-- Edition 1.0.3 [here via Gumroad](https://gum.co/mathemodica-powsys) (you are contributing to the maintenance of this e-book & encouraging similar future initiatives)  
-- Edition 1.0.3 for free [here via Gumroad](https://gum.co/mathemodica-powsys-free) (signficant constructive feedback and/or a contribution is appreciated).  
-
-To be delivered by Email. 
-
-**Privacy notice** Private data including email addresses and amount of payment shall not be disclosed. 
-
-#### Remark 
-
-* Consider re-purchasing from time to time due to regular or occoasional contents update
-*  In order to obtain the e-book at a gumroad, place a number (your suggested amount) in the box "name a fair price" and the press the button "add to card", or the button "I want this!" or the button "Buy this". Afterwords, insert your email address and press "get"
-*  If you don't get an email immediately, consider checking your junk folder.
-
 ### Sponsorship 
 
-Drop an email to PowerSystemBook-at-mathemodica.com if you'd like to place the logo of your organization or product at an early page of the book. 
+Drop an email to PowerSystemBook-at-mathemodica.com if you'd like to place the logo of your organization or product at an early page of the book (or others). 
 
 The authors have the right to refuse or reject a non relevant request without stating the reasons. 
+
+### Issues and scientific contribution
+
+You may report any issues with using the [Issues](https://github.com/Mathemodica/ModelicaPowerSystemBook/issues) button.
+
+For involvement with scientific contributions, view [the outline on ResearchGate](https://www.researchgate.net/publication/353340102_Book_Outline_Modelica_by_Application_Power_Systems).
+
+For scientific feedback and exchange, consider commenting the corresponding chapter(s) or outline on [the scientific platform of the project on ResearchGate](https://www.researchgate.net/project/Book-Modelica-By-Application-Power-Systems).
 
 ### Release Notes 
 
@@ -60,14 +68,6 @@ The authors have the right to refuse or reject a non relevant request without st
 - 2021-07-19 V0.5.1 : More relevant references and section 7.9 Educational materials is separated into two sections Books & Education efforts  
 - 2021-07-21 V0.5.2 : Improved Bibliography style and minor formatting issue
 - 2021-09-14 V1.0.3 : New Chapter History of System Modeling, A section on commercial libraries to be reported by library owners, Open Questions section for most of the chapters, biography of authors
-
-### Issues and scientific contribution
-
-You may report any issues with using the [Issues](https://github.com/Mathemodica/ModelicaPowerSystemBook/issues) button.
-
-For involvement with scientific contributions, view [the outline on ResearchGate](https://www.researchgate.net/publication/353340102_Book_Outline_Modelica_by_Application_Power_Systems).
-
-For scientific feedback and exchange, consider commenting the corresponding chapter(s) or outline on [the scientific platform of the project on ResearchGate](https://www.researchgate.net/project/Book-Modelica-By-Application-Power-Systems).
 
 ### Contact Us
 
