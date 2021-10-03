@@ -1,5 +1,7 @@
 # Modelica by Application: Power Systems 
 
+![Cover](MPSCoverActual.png)
+
 ### About 
 
 This is a comprehensive but a concise and educational (e-)book aiming at advertising Modelica-based technologies, particularly useful for power system modeling applications. Whatever aspect that could be relevantly useful has been included,  to the best of the author’s knowledge and time.  We hope that this (e-)book is useful not only for power system modelers desiring to get a quick idea about the benefits of employing Modelica but also for those Modelica modelers desiring a starting guide into the world of PowerSystems modeling applications.
@@ -15,8 +17,6 @@ View [actual outline on ResearchGate](https://www.researchgate.net/publication/3
 ### Costs 
 
 The e-book is both freely accessible and sponsorable on the basis of pay-as-much-as-you-think the e-book deserves. It is hoped that this e-book becomes a community-driven e-book and remains actualized w.r.t. most recent updates on a regular basis. 
-
-![Cover](MPSCoverActual.png)
 
 ### (Re-)Purchase
  
