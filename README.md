@@ -6,7 +6,7 @@ This is a comprehensive but a concise and educational (e-)book aiming at adverti
 
 ### Costs 
 
-The e-book is both freely accessible and sponsorable on the basis of pay-as-much-as-you-think the e-book deserves. It is hoped that this e-book becomes a community-driven e-book and remains maintainable and actualized on a regular basis. 
+The e-book is both freely accessible and its maintenance and enhancement are sponsorable on the basis of pay-as-much-as-you-think the e-book deserves. It is hoped that this e-book becomes a community-driven e-book and remains actualized w.r.t. most recent updates on a regular basis. 
 
 ![Cover](MPSCoverActual.png)
 
