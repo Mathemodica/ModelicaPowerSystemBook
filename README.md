@@ -23,7 +23,7 @@ View [actual outline on ResearchGate](https://www.researchgate.net/publication/3
 - Edition 1.0.3 [here via Gumroad](https://gum.co/mathemodica-powsys) (you are contributing to the enhancement and maintenance of this e-book & encouraging similar future initiatives)  
 - Edition 1.0.3 for free [here via Gumroad](https://gum.co/mathemodica-powsys-free) (feedback is appreciated).  
 
-To be delivered by Email. 
+To be automatically delivered by Email. 
 
 **Privacy notice** Private data including email addresses and amount of payment shall not be disclosed. 
 
