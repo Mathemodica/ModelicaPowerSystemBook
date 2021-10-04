@@ -23,7 +23,7 @@ The e-book is both freely accessible and sponsorable on the basis of pay-as-much
 #### Remarks 
 
 * Consider re-purchasing from time to time due to regular or occoasional contents update. Check the actual version. Significant content changes shall be reflected by the number y in version x.y.z ( e.g. version 1.1.3 has major enhancements in comparison with version 1.0.5)
-*  In order to obtain the e-book at a gumroad, place a number (your suggested amount) in the box "name a fair price" and the press the button "add to card", or the button "I want this!" or the button "Buy this". Afterwords, insert your email address and press "get"
+*  In order to obtain the e-book at above gumroad.com link, place a number (your suggested amount) in the box "name a fair price" and the press the button "add to card", or the button "I want this!" or the button "Buy this". Afterwords, insert your email address and press "get"
 
 ### License 
 
@@ -47,7 +47,7 @@ Library developers or owners can report or actualize their library by commenting
 
 ### Sponsorship 
 
-Drop an email to PowerSystemBook-at-mathemodica.com if you'd like to place the logo of your organization or product at several pages of the book. 
+Drop an email to PowerSystemBook-at-mathemodica.com if you'd like to place the logo of your organization or product at several pages of the e-book. 
 
 The authors have the right to reject a non relevant request without stating the reasons. 
 
