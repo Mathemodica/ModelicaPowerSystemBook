@@ -2,6 +2,10 @@
 
 ![Cover](MPSCoverActual.png)
 
+### License 
+
+This book is provided under the terms of [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ### About 
 
 This is a comprehensive but a concise and educational (e-)book aiming at advertising Modelica-based technologies, particularly useful for power system modeling applications. Whatever aspect that could be relevantly useful has been included,  to the best of the author’s knowledge and time.  We hope that this (e-)book is useful not only for power system modelers desiring to get a quick idea about the benefits of employing Modelica but also for those Modelica modelers desiring a starting guide into the world of PowerSystems modeling applications.
@@ -22,16 +26,12 @@ The e-book is both freely accessible and sponsorable on the basis of pay-as-much
 
 #### Remarks 
 
-* Consider re-purchasing from time to time due to regular or occoasional contents update. Check the actual version. Significant content changes shall be reflected by the number y in version x.y.z ( e.g. version 1.1.3 has major enhancements in comparison with version 1.0.5)
-*  In order to obtain the e-book at above gumroad.com link, place a number (your suggested amount) in the box "name a fair price" and the press the button "add to card", or the button "I want this!" or the button "Buy this". Afterwords, insert your email address and press "get"
-
-### License 
-
-This book is provided under the terms of [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+* Consider re-purchasing from time to time due to regular or occoasional contents update. Check the actual version. Significant content changes shall be reflected by the number y in version x.y.z ( e.g. version 1.2.3 has major enhancements to version 1.0.5)
+*  In order to obtain the e-book from the given gumroad.com link, place a number (your suggested amount) in the box "name a fair price" and the press the button "add to card", or the button "I want this!" or the button "Buy this". Afterwords, insert your email address and press "get"
 
 ### Online Access  
 
-PDFs of the book chapters and contents updates can be accessed @ [the scientific platform of the project on ResearchGate](https://www.researchgate.net/project/Book-Modelica-By-Application-Power-Systems). Here you can also discuss the contents by commenting the uploaded outline or the relevant chapters. You can provide feedback, suggestions and light contributions. You can report relevant academic publications the authors are not necessarily aware about. 
+PDFs of the book chapters and contents updates can be accessed online @ [the scientific platform of the project on ResearchGate](https://www.researchgate.net/project/Book-Modelica-By-Application-Power-Systems). Here you can also discuss the contents by commenting the uploaded outline or the relevant chapters. You can provide feedback, suggestions and light contributions. You can report relevant academic publications the authors are not necessarily aware about. 
 
 ### Involvement and contrubutions 
 
