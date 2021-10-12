@@ -20,7 +20,7 @@ The e-book is both freely accessible and sponsorable on the basis of pay-as-much
 
 ### (Re-)Purchase
  
-- Edition 1.0.6 [here via Gumroad](https://gum.co/mathemodica-powsys) for as much as you think this e-book deserves (minimum 5$). (you are contributing to the enhancement and maintenance of this e-book & encouraging similar future initiatives). A PDF is to be automatically delivered by Email (check your junk folder).
+- Edition 1.0.7 [here via Gumroad](https://gum.co/mathemodica-powsys) for as much as you think this e-book deserves (minimum 5$). (you are contributing to the enhancement and maintenance of this e-book & encouraging similar future initiatives). A PDF is to be automatically delivered by Email (check your junk folder).
 
 **Privacy notice** Private data including email addresses and amount of payment shall not be disclosed. 
 
@@ -65,6 +65,7 @@ You may report any issues with using the [Issues](https://github.com/Mathemodica
 - 2021-07-21 V0.5.2 : Improved Bibliography style and minor formatting issue
 - 2021-09-14 V1.0.3 : New Chapter History of System Modeling, A section on commercial libraries to be reported by library owners, Open Questions section for most of the chapters, biography of authors
 - 2021-10-03 V1.0.5 : Additional open questions, references are at the end of each chapter, actual issues in the preface
+- 2021-10-12 V1.0.7 : Improved formulation for Ch. 5 for Modelica beginners 
 
 ### Contact Us
 
