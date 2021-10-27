@@ -18,11 +18,10 @@ The e-book is both freely accessible and sponsorable on the basis of pay-as-much
  
 - Edition 1.0.7 [here via Gumroad](https://gum.co/mathemodica-powsys) for as much as you think this e-book deserves (minimum 5$). 
 
-**Privacy notice** Private data including email addresses and amount of payment shall not be disclosed. 
-
 #### Remarks 
 
-* Significant content changes from a version to another shall be reflected by the number y in version x.y.z ( e.g. version 1.2.3 has major enhancements in comparison with version 1.0.5)
+* **Privacy notice** Private data including email addresses and amount of payment shall not be disclosed. 
+* Significant content changes from a version to another shall be reflected by the number y in version x.y.z (e.g. version 1.2.3 has major enhancements in comparison with version 1.0.5)
 *  In order to obtain the e-book from the given gumroad.com link, place a number (your suggested amount) in the box "name a fair price" and the press the button "add to card", or the button "I want this!" or the button "Buy this". Afterwords, insert your email address and press "get". A PDF is to be automatically delivered by Email (check your junk folder).
 
 ### Online Access  
@@ -31,9 +30,13 @@ PDFs of the individual book chapters and contents updates can be accessed online
 
 ### Involvement and contrubutions 
 
-* Experts are welcome to participate passively (by using comments for light reports, light reviews, topic suggestions, feedback etc.) or actively (by taking apart in the writing, solid read-through reviews, etc.). Any contribution shall be acknowledged (acknowledgment section) or credited (on the top of a section or a chapter). 
+* Experts are welcome to participate passively (by using comments for light reports, light reviews, topic suggestions, feedback etc.) or actively (by taking apart in the writing, solid read-through reviews, etc.). Depending on the level and nature of the contribution, any contribution shall be acknowledged (acknowledgment section) or credited (on the top of a section or a chapter. 
 
-* For further desired compensations for those who maintain a contibution ratio of at least 5%, contact the first author, see contact details below. 
+* For further compensations for those who maintain a contibution ratio of at least 5% of the whole contents (Once / year) (See contact details below):  
+  - You can bring the logo of your organization to the front of the e-book 
+  - You can obtain Y x 0.501 % of the whole income of the e-book, where Y: the contribution ratio of 5%, 10%, 15%,...  
+  - One day we may go for a scientific publication in the form of a communication letter
+  - ...   
 
 * For involvement with scientific contributions, view proposed conditions in [the outline on ResearchGate](https://www.researchgate.net/publication/353340102_Book_Outline_Modelica_by_Application_Power_Systems).
 
