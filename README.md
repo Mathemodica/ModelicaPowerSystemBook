@@ -34,8 +34,8 @@ PDFs of the individual book chapters and contents updates can be accessed online
 
 * For further compensations for those who maintain a contibution ratio of at least 5% of the whole contents (Once / year) (See contact details below):  
   - You can bring the logo of your organization to the front of the e-book 
-  - You can obtain Y x 0.501 % of the whole income of the e-book, where Y: the contribution ratio of 5%, 10%, 15%,...  
-  - One day we may go for a scientific publication in the form of a communication letter
+  - You can obtain a ratio of (Y x 0.499) of the whole income of the e-book, where Y: an approximated contribution ratio at least 5% or 10% or 15%, ... (Y is divisable by 5)   
+  - One day we may (or may not) go for a scientific publication in the form of a communication letter or a review paper
   - ...   
 
 * For involvement with scientific contributions, view proposed conditions in [the outline on ResearchGate](https://www.researchgate.net/publication/353340102_Book_Outline_Modelica_by_Application_Power_Systems).
