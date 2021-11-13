@@ -6,8 +6,10 @@ contributions from Scientists and Engineers involved in the topic of this e-book
 
 ### Overleaf.com 
 
-The source of this e-book is available at the online latex editor [overleaf.com](https://www.overleaf.com/) enabling collaborative writing 
-from a limited number of conbtributors. There are currently some free spots for willing contributors.  
+The source of this e-book is available at the online latex editor [overleaf.com](https://www.overleaf.com/) enabling collaborative writing from a limited number of conbtributors. There are currently some free spots for willing contributors.  
+
+In case you don't have an account on overleaf.com, to this (e-)book benefit's consider creating an account using [this referral link]
+(https://www.overleaf.com?r=e7d83309&rm=d&rs=b). This will allow increasing the number of spots for active writers / contributors and meanwhile may reduce the current fees in the future.
 
 ### Involvement and contrubutions 
 
@@ -28,7 +30,7 @@ are conditioned)
 must agree and actively participate in the writing/reviewing a potential submission)  
 
 *Warning*: Although we'd love to manage an academic publication in the form of communication letter, review paper or other topic-specific 
-papers, We don't promise at all that a scientific publication ever be attempted.
+papers, We don't promise at all that a scientific publication will be ever attempted.
 
 ### Further compensation 
 
@@ -37,7 +39,7 @@ Further compensations those who maintain a contibution ratio of at least 5% of t
   - You can obtain a ratio of (Y x 0.499) of the whole income of the e-book, where Y: an approximated contribution ratio at least 5% or 10% or 15%, ... (Y is divisable by 5)   
   - ...   
 
-*Warning*: Current income is low and barely equalize the current fees of overleaf.com 
+*Warning*: Current income barely equalizes the current fees of overleaf.com 
 
 ### Contact us
 
