@@ -6,6 +6,12 @@
 
 This is a comprehensive but a concise and educational (e-)book aiming at advertising Modelica-based technologies, particularly useful for power system modeling applications. Whatever aspect that could be relevantly useful has been included,  to the best of the author’s knowledge and time.  We hope that this (e-)book is useful not only for power system modelers desiring to get a quick idea about the benefits of employing Modelica but also for those Modelica modelers desiring a starting guide into the world of PowerSystems modeling applications.
 
+### Involvement and Compensation 
+
+- Would you like to get involved in writing and actualizing this e-book? 
+- Would you like to know what kind of compensations do you get for being involved in this e-book? 
+Then, have a look at [Involvement and Compensation Section](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/Compensation.md) 
+
 ### Costs 
 
 The e-book is both freely accessible and sponsorable on the basis of pay-as-much-as-you-think the e-book deserves. It is hoped that this e-book becomes a community-driven e-book and remains actualized w.r.t. most recent updates on a regular basis. 
@@ -47,18 +53,6 @@ PDFs of the individual book chapters and contents updates can be accessed online
 - [Ch 10: Scalability and Runtime Performance](https://www.researchgate.net/publication/355037052_IV_Advanced_Aspects_-_Ch_10_Scalability_and_Runtime_Performance)
 - [Ch 11: Summary and Outlook](https://www.researchgate.net/publication/355037056_IV_Advanced_Aspects_-_Ch_11_Summary_and_Outlook)
 
-
-### Involvement and contrubutions 
-
-* Experts are welcome to participate passively (by using comments for light reports, light reviews, topic suggestions, feedback etc.) or actively (by taking apart in the writing, solid read-through reviews, etc.). Depending on the level and nature of the contribution, any contribution shall be acknowledged (acknowledgment section) or credited (on the top of a section or a chapter. 
-
-* For further compensations for those who maintain a contibution ratio of at least 5% of the whole contents (Once / year) (See contact details below):  
-  - You can bring the logo of your organization to the front of the e-book 
-  - You can obtain a ratio of (Y x 0.499) of the whole income of the e-book, where Y: an approximated contribution ratio at least 5% or 10% or 15%, ... (Y is divisable by 5)   
-  - One day we may (or may not) go for a scientific publication in the form of a communication letter or a review paper
-  - ...   
-
-* For involvement with scientific contributions, view proposed conditions in [the outline on ResearchGate](https://www.researchgate.net/publication/353340102_Book_Outline_Modelica_by_Application_Power_Systems).
 
 ### Ch. 9 Relevant Modelica Libraries
 
