@@ -8,8 +8,7 @@ contributions from Scientists and Engineers involved in the topic of this e-book
 
 The source of this e-book is available at the online latex editor [overleaf.com](https://www.overleaf.com/) enabling collaborative writing from a limited number of conbtributors. There are currently some free spots for willing contributors.  
 
-In case you don't have an account on overleaf.com, to this (e-)book benefit's consider creating an account using [this referral link]
-(https://www.overleaf.com?r=e7d83309&rm=d&rs=b). This will allow increasing the number of spots for active writers / contributors and meanwhile may reduce the current fees in the future.
+In case you don't have an account on overleaf.com, to this (e-)book benefit's consider creating an account using [this referral link](https://www.overleaf.com?r=e7d83309&rm=d&rs=b). This will allow increasing the number of spots for active writers / contributors and meanwhile may reduce the current fees in the future.
 
 ### Involvement and contrubutions 
 
