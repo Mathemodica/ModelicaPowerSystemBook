@@ -12,23 +12,20 @@ This is a comprehensive but a concise and educational (e-)book aiming at adverti
 - Would you like to know what kind of compensations do you get for being involved in this e-book? 
 Then, have a look at [Involvement and Compensation Section](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/Compensation.md) 
 
-### Costs 
+### Costs / (Re-)Purchase
 
-The e-book is both freely accessible and sponsorable on the basis of pay-as-much-as-you-think the e-book deserves. It is hoped that this e-book becomes a community-driven e-book and remains actualized w.r.t. most recent updates on a regular basis. 
+- The e-book is both freely accessible and sponsorable on the basis of pay-as-much-as-you-think the e-book deserves.
+- Edition 1.0.7 can be purchased [here via Gumroad](https://gum.co/mathemodica-powsys) for as much as you think this e-book deserves (minimum 5$). 
 
-### (Re-)Purchase
- 
-- Edition 1.0.7 [here via Gumroad](https://gum.co/mathemodica-powsys) for as much as you think this e-book deserves (minimum 5$). 
-
-#### Remarks 
+##### Remarks 
 
 * **Privacy notice** Private data including email addresses and amount of payment shall not be disclosed. 
-* Significant content changes from a version to another shall be reflected by the number y in version x.y.z (e.g. version 1.2.3 has major enhancements in comparison with version 1.0.5)
-*  In order to obtain the e-book from the given gumroad.com link, place a number (your suggested amount) in the box "name a fair price" and the press the button "add to card", or the button "I want this!" or the button "Buy this". Afterwords, insert your email address and press "get". A PDF is to be automatically delivered by Email (check your junk folder).
+* Significant content changes from a version to another shall be reflected by the number y in version x.y.z (e.g. version 1.2.3 has major enhancements to version 1.0.5)
+*  In order to obtain the e-book as a whole from the given gumroad.com link, place a number (your suggested amount) in the box "name a fair price" and the press the button "add to card", or the button "I want this!" or the button "Buy this". Afterwords, insert your email address and press "get". A PDF is to be automatically delivered by Email (check your junk folder).
 
 ### E-Boook Website 
 
-PDFs of the individual book chapters and contents updates can be accessed online @ [the scientific platform of the project on ResearchGate](https://www.researchgate.net/project/Book-Modelica-By-Application-Power-Systems). Here you can also discuss the contents by commenting the uploaded outline or the relevant chapters. You can provide feedback, suggestions and light contributions. You can report relevant academic publications the authors are not necessarily aware about. 
+PDFs of the individual book chapters and contents updates can be accessed online @ [the scientific discussion platform of the E-book on ResearchGate](https://www.researchgate.net/project/Book-Modelica-By-Application-Power-Systems). Here you can also discuss the contents by commenting the uploaded outline or the relevant chapters. You can provide feedback, suggestions and light contributions. You can report relevant academic publications the authors are not necessarily aware about. 
 
 ### Contents (PDF)
 
@@ -53,8 +50,7 @@ PDFs of the individual book chapters and contents updates can be accessed online
 - [Ch 10: Scalability and Runtime Performance](https://www.researchgate.net/publication/355037052_IV_Advanced_Aspects_-_Ch_10_Scalability_and_Runtime_Performance)
 - [Ch 11: Summary and Outlook](https://www.researchgate.net/publication/355037056_IV_Advanced_Aspects_-_Ch_11_Summary_and_Outlook)
 
-
-### Ch. 9 Relevant Modelica Libraries
+### Notes regarding Ch. 9 Relevant Modelica Libraries
 
 [Ch. 9 Relevant Modelica Libaries (ResearchGate)](https://www.researchgate.net/publication/354619412_Relevant_Modelica_Libraries)
 
