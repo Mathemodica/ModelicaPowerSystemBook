@@ -6,10 +6,6 @@
 
 This is a comprehensive but a concise and educational (e-)book aiming at advertising Modelica-based technologies, particularly useful for power system modeling applications. Whatever aspect that could be relevantly useful has been included,  to the best of the author’s knowledge and time.  We hope that this (e-)book is useful not only for power system modelers desiring to get a quick idea about the benefits of employing Modelica but also for those Modelica modelers desiring a starting guide into the world of PowerSystems modeling applications.
 
-### Outline (Current Release V1.0.7)
-
-View [actual outline on ResearchGate](https://www.researchgate.net/publication/353340102_Book_Outline_Modelica_by_Application_Power_Systems)
-
 ### Costs 
 
 The e-book is both freely accessible and sponsorable on the basis of pay-as-much-as-you-think the e-book deserves. It is hoped that this e-book becomes a community-driven e-book and remains actualized w.r.t. most recent updates on a regular basis. 
@@ -24,26 +20,29 @@ The e-book is both freely accessible and sponsorable on the basis of pay-as-much
 * Significant content changes from a version to another shall be reflected by the number y in version x.y.z (e.g. version 1.2.3 has major enhancements in comparison with version 1.0.5)
 *  In order to obtain the e-book from the given gumroad.com link, place a number (your suggested amount) in the box "name a fair price" and the press the button "add to card", or the button "I want this!" or the button "Buy this". Afterwords, insert your email address and press "get". A PDF is to be automatically delivered by Email (check your junk folder).
 
-### Online Access  
+### E-Boook Website 
 
 PDFs of the individual book chapters and contents updates can be accessed online @ [the scientific platform of the project on ResearchGate](https://www.researchgate.net/project/Book-Modelica-By-Application-Power-Systems). Here you can also discuss the contents by commenting the uploaded outline or the relevant chapters. You can provide feedback, suggestions and light contributions. You can report relevant academic publications the authors are not necessarily aware about. 
 
 ### Contents (PDF)
 
-- [E-Book Website](https://www.researchgate.net/project/Book-Modelica-By-Application-Power-Systems)
 - [Cover, Outline and Preface](https://www.researchgate.net/publication/353340102_Cover_Preface_Outline_of_the_E-book_Modelica_by_Application_Power_Systems)
+
 ##### Part I: Introduction
 - [Ch 1: Motivation and Outline](https://www.researchgate.net/publication/354996984_I_Introduction_Ch_1_Motivation_and_Outline)
 - [Ch 2: Modeling Challenges](https://www.researchgate.net/publication/355035174_I_Introduction_Ch_2_Modeling_Challenges)
 - [Ch 3: A short History of System Modeling](https://www.researchgate.net/publication/355035177_I_Introduction_Ch_3_A_Short_History_of_System_Modeling)
 - [Ch 4: The Rise of Modelica](https://www.researchgate.net/publication/355036082_I_Introduction_Ch_4_The_Rise_of_Modelica)
+
 ##### Part II: Designing a Modelica Library]
 - [Ch 5: Basic Concepts](https://www.researchgate.net/publication/355036357_II_Designing_a_Modelica_Library_-_Ch_5_Basic_Concepts)
 - [Ch 6: Object-Oriented Features](https://www.researchgate.net/publication/355037018_II_Designing_a_Modelica_Library_-_Ch_6_Object-Oriented_Features)
 - [Ch 7: Examples](https://www.researchgate.net/publication/355037040_II_Designing_a_Modelica_Library_-_Ch_7_Examples)
+
 ##### Part III: Actual Aspects
 - [Ch 8: Current State](https://www.researchgate.net/publication/355036972_III_Actual_Aspects_-_Ch_8_Current_State_of_Modelica)
 - [Ch 9: Relevant Modelica Libraries](https://www.researchgate.net/publication/354619412_III_Actual_Aspects_-_Ch_9_Relevant_Modelica_Libraries)
+
 ##### Part IV: Advanced Aspects
 - [Ch 10: Scalability and Runtime Performance](https://www.researchgate.net/publication/355037052_IV_Advanced_Aspects_-_Ch_10_Scalability_and_Runtime_Performance)
 - [Ch 11: Summary and Outlook](https://www.researchgate.net/publication/355037056_IV_Advanced_Aspects_-_Ch_11_Summary_and_Outlook)
