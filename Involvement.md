@@ -1,12 +1,27 @@
-### Involvement 
+### Who is invited 
 
-If you are involved in power-system related activities using the Modelica language, you arewelcome to actively improve 
-the state of this (e-)book whenever and/or wherever possible. 
-Therefore, this (e-)book is available on the online latex editor Overleaf, which allows collaborative writing. Your useful scientific 
-involvement, in whichever form, shall be acknowledged orcredited (e.g. See Ch. 1 & 2), unless explicitly communicated that this is 
-not desired. For further desired compensations, consider contacting the first author. 
+If you are involved in power-system related activities using the Modelica language, you are welcome to actively improve 
+the state of this (e-)book whenever and/or wherever possible. Therefore, this (e-)book is available on the online latex editor Overleaf, which allows collaborative writing. 
 
-*The contribution has to be in high-quality own-style original text, conciseand accurate.*
+### Involvement and contribution
+
+Experts clearly involved in some aspects of the topic of this e-book are welcome to contribute to this e-book, passively by 
+- conducting light reviews
+- proposing topics
+- suggesting materials or actual recent references 
+- conducting feedback 
+- ... 
+
+or actively by 
+- taking apart in the writing 
+- solid read-through reviews 
+- ...  
+
+View [compensations for contributors](https://github.com/Mathemodica/ModelicaPowerSystemBook/edit/main/Compensation.md)
+
+### Main conditions on contributions 
+
+**The contribution has to be in high-quality own-style original text, concise and accurate
 
 
 ### Overleaf.com
