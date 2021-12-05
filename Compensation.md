@@ -8,7 +8,7 @@ to this e-book forever. Thus, the only chance to satisfy this goal is to allow t
 Who can contribute and what kind of contribution is expected, view [involvement and conditions](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/Involvement.md)
 
 Depending on the level and nature of the contribution, 
-**any contribution shall be acknowledged (acknowledgment section) or credited as a(n) (co-)author (on the top of a section or a chapter). 
+**any contribution shall be acknowledged (acknowledgment section) or credited as a(n) (co-)author (on the top of a section or a chapter).** 
 
 ### Academic compensations
 
@@ -35,8 +35,8 @@ By request, further compensations for those who maintain a contibution ratio of 
 
 Current income barely equalizes the current fees of overleaf.com 
 
-**remark**  
+**Remark**  
 
-An extended or advanced version of this e-book may (but not necessarily) ends one day as a printed book or a commercial e-book (however, all contributions shall be always made online accessible). We are not really aiming at this goal, but we simply keep this possibility open.  
+An extended or advanced version of this e-book may (but no promise is made) ends one day as a printed book or a commercial e-book (however, all contributions shall be always made online accessible). We are not really aiming at this goal, but we simply keep this possibility open.  
 
 
