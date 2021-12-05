@@ -1,7 +1,7 @@
 ### Who is invited 
 
 If you are involved in power-system related activities using the Modelica language, you are welcome to actively improve 
-the state of this (e-)book whenever and/or wherever possible. Therefore, this (e-)book is available on the online latex editor Overleaf, which allows collaborative writing. 
+the state of this (e-)book whenever and/or wherever possible. 
 
 ### Involvement and contribution
 
@@ -17,18 +17,22 @@ or actively by
 - solid read-through reviews 
 - ...  
 
+The light contributions can be publically conducted by commenting the corresponding chapter(s) on [the project website on ResearchGate](https://www.researchgate.net/project/Book-Modelica-By-Application-Power-Systems)
+
 View [compensations for contributors](https://github.com/Mathemodica/ModelicaPowerSystemBook/edit/main/Compensation.md)
 
 ### Main conditions on contributions 
 
-**The contribution has to be in high-quality own-style original text, concise and accurate
+**The contribution has to be in high-quality own-style original text, concise and accurate** 
 
 
 ### Overleaf.com
 
+Overleaf.co is an online latex editor Overleaf, which allows collaborative writing. The source code is available on this platform and there are currently (December 2021) couple of free spots for active writers. 
+
 In case you don’t have an account on overleaf.com, to this (e-)book benefit’s consider creating an account using the following [referral 
 link](https://www.overleaf.com?r=e7d83309&rm=d&rs=b). 
-This will allow increasing the number of spots for active writers and meanwhile reduces the current fees in the future. 
+This will allow increasing the number of free spots for active writers and meanwhile reduces the current fees in the future. 
 
 ### Gumroad.com
 
