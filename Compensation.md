@@ -3,9 +3,11 @@
 We'd love the idea that this e-book to become actualized on a regular basis. However, the authors main focus is not necessarily related
 to this e-book forever. Thus, the only chance to satisfy this goal is to allow this e-book to be a community-driven one, and motivate arbitrary contributions from Scientists and Engineers for certain compensations proposed below. 
 
-### Contributors and contributions 
+### Conditions  
 
 Who can contribute and what kind of contribution is expected, view [involvement and conditions](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/Involvement.md)
+
+### Acknowledgements and Credits
 
 Depending on the level and nature of the contribution, 
 **any contribution shall be acknowledged (acknowledgment section) or credited as a(n) (co-)author (on the top of a section or a chapter).** 
@@ -15,7 +17,7 @@ Depending on the level and nature of the contribution,
 The e-book is licenced under typical CC license. Thus, contents of this e-book may act as (an extended) preprint for academic
 publications. Therefore, significant contributors 
 
-* can make use of the contents of this e-book for their academic publications. Common ethics for scientific publications are conditioned (agreement and relevant credits to other contributors) 
+* can make use of the contents of this e-book for their academic publications. Common ethics for scientific publications are conditioned (agreement of other contributors and relevant credits to their writings) 
 * will be qualified to a co-authorship in any relevant academic publication that is making use of thier contribution (given that they
 must agree and actively participate in the writing/reviewing of a potential academic publication)  
 
