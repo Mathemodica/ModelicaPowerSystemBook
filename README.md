@@ -54,7 +54,7 @@ PDFs of the individual book chapters and contents updates can be accessed online
 
 [Ch. 9 Relevant Modelica Libaries (ResearchGate)](https://www.researchgate.net/publication/354619412_Relevant_Modelica_Libraries)
 
-Library developers or owners can report or actualize their library by commenting this chapter. The provided description shall not exceed 100 words. As many references as desired and a URL can be provided. For signficant contributions, consider contacting us in advance. View contact details and involvement conditions in the outline. 
+Library developers or owners can report or actualize their library by commenting this chapter. The provided description shall not exceed 100 words. As many references as desired and a URL can be provided. For signficant contributions, consider contacting us in advance. View contact details below and [involvement conditions](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/Involvement.md). 
 
 ### Issues 
 
