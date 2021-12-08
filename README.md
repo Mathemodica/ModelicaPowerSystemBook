@@ -10,7 +10,7 @@ This is a comprehensive but a concise and educational (e-)book aiming at adverti
 
 - Would you like to get involved in writing and actualizing this e-book? 
 - Would you like to know what kind of compensations do you get for being involved in this e-book? 
-Then, have a look at [Involvement and Compensation Section](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/Compensation.md) 
+Then, have a look at the [Involvement Conditions Section](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/Involvement.md) and [Compensation Section](https://github.com/Mathemodica/ModelicaPowerSystemBook/blob/main/Compensation.md) 
 
 ### Costs / (Re-)Purchase
 
