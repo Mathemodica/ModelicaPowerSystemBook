@@ -71,6 +71,7 @@ You may report any issues with using the [Issues](https://github.com/Mathemodica
 - 2021-09-14 V1.0.3 : New Chapter History of System Modeling, A section on commercial libraries to be reported by library owners, Open Questions section for most of the chapters, biography of authors
 - 2021-10-03 V1.0.5 : Additional open questions, references are at the end of each chapter, actual issues in the preface
 - 2021-10-12 V1.0.7 : Improved formulation for Ch. 5 for Modelica beginners 
+- 2021-12-XY V1.1   : Coming soon
 
 ### Contact Us
 
