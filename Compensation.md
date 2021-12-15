@@ -17,9 +17,13 @@ Depending on the level and nature of the contribution,
 The e-book is licenced under typical CC license. Thus, contents of this e-book may act as (an extended) preprint for academic
 publications. Therefore, significant contributors 
 
-* can make use of the contents of this e-book for their academic publications. Common ethics for scientific publications are conditioned (agreement of other contributors and relevant credits to their writings) 
+* can make use of the contents of this e-book for their academic publications. Common ethics for scientific publications are conditioned (agreement of other contributors and relevant credits to their writings)  
 * will be qualified to a co-authorship in any relevant academic publication that is making use of thier contribution (given that they
 must agree and actively participate in the writing/reviewing of a potential academic publication)  
+
+**Remark** 
+
+The philosphy of this e-book is to avoid duplicated materials available in open-access publications. Own style original text is used to summarize many relevant open-access publications. Thus, any signficant materials in this e-book that are employed online could be simplified afterwords in future revisions of this e-book.    
 
 **Warning** 
 
