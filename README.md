@@ -15,7 +15,7 @@ Then, have a look at the [Involvement Conditions Section](https://github.com/Mat
 ### Costs / (Re-)Purchase
 
 - The e-book is both freely accessible and sponsorable on the basis of pay-as-much-as-you-think the e-book deserves.
-- Edition 1.0.7 can be purchased [here via Gumroad](https://gum.co/mathemodica-powsys) for as much as you think this e-book deserves (minimum 5$). 
+- Edition 1.1.0 can be purchased [here via Gumroad](https://gum.co/mathemodica-powsys) for as much as you think this e-book deserves (minimum 6$). 
 
 ##### Remarks 
 
@@ -48,7 +48,8 @@ PDFs of the individual book chapters and contents updates can be accessed online
 
 ##### Part IV: Advanced Aspects
 - [Ch 10: Scalability and Runtime Performance](https://www.researchgate.net/publication/355037052_IV_Advanced_Aspects_-_Ch_10_Scalability_and_Runtime_Performance)
-- [Ch 11: Summary and Outlook](https://www.researchgate.net/publication/355037056_IV_Advanced_Aspects_-_Ch_11_Summary_and_Outlook)
+- [Ch 11: Promising Methods and Technologies](https://www.researchgate.net/publication/357173240_IV_Advanced_Aspects_-_Ch_11_Promising_Methods_and_Technologies)
+- [Ch 12: Summary and Outlook](https://www.researchgate.net/publication/355037056_IV_Advanced_Aspects_-_Ch_12_Summary_and_Outlook)
 
 ### Notes regarding Ch. 9 Relevant Modelica Libraries
 
@@ -71,7 +72,7 @@ You may report any issues with using the [Issues](https://github.com/Mathemodica
 - 2021-09-14 **V1.0.3** : New Chapter History of System Modeling, A section on commercial libraries to be reported by library owners, Open Questions section for most of the chapters, biography of authors
     - 2021-10-03 V1.0.5 : Additional open questions, references are at the end of each chapter, actual issues in the preface
     - 2021-10-12 V1.0.7 : Improved formulation for Ch. 5 for Modelica beginners 
-- 2021-12-XY **V1.1**   : Coming soon
+- 2021-12-20 **V1.1**   : New chapter, major and minor enhancements in 8 chapters 
 
 ### Contact Us
 
