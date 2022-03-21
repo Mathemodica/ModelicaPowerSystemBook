@@ -20,15 +20,15 @@ Then, have a look at the [Involvement Conditions Section](https://github.com/Mat
 
 ##### Remarks 
 
-* **Privacy notice** Private data including email addresses and amount of payment shall not be disclosed. 
+* **Privacy notice** The purchasing is done via Gumroad. The only exposed private data are the email address and the corresponding amount of payment. These data shall not be disclosed to any party. 
 * Significant content changes from a version to another shall be reflected by the number y in version x.y.z (e.g. version 1.2.3 has major enhancements to version 1.0.5)
 *  In order to obtain the e-book as a whole from the given gumroad.com link, place a number (your suggested amount) in the box "name a fair price" and the press the button "add to card", or the button "I want this!" or the button "Buy this". Afterwords, insert your email address and press "get". A PDF is to be automatically delivered by Email (check your junk folder).
 
 ### E-Boook Website 
 
-PDFs of the individual book chapters and contents updates can be accessed online @ [the scientific discussion platform of the E-book on ResearchGate](https://www.researchgate.net/project/Book-Modelica-By-Application-Power-Systems). Here you can also discuss the contents by commenting the uploaded outline or the relevant chapters. You can provide feedback, suggestions and light contributions. You can report relevant academic publications the authors are not necessarily aware about. 
+The individual book chapters and contents updates can be accessed online @ [the scientific discussion platform of the E-book on ResearchGate](https://www.researchgate.net/project/Book-Modelica-By-Application-Power-Systems). Here you can also discuss the contents by commenting the uploaded outline or the relevant chapters. You can provide feedback, suggestions and light contributions. You can report relevant academic publications the authors are not necessarily aware about. 
 
-### Contents (PDF)
+### Contents
 
 - [Cover, Outline and Preface](https://www.researchgate.net/publication/353340102_Cover_Preface_Outline_of_the_E-book_Modelica_by_Application_Power_Systems)
 
