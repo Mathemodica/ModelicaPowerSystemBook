@@ -16,7 +16,7 @@ Then, have a look at the [Involvement Conditions Section](https://github.com/Mat
 ### Costs / (Re-)Purchase
 
 - The e-book is both freely accessible and sponsorable on the basis of pay-as-much-as-you-think the e-book deserves.
-- Edition 1.1.0 can be purchased [here via Gumroad](https://gum.co/mathemodica-powsys) for as much as you think this e-book deserves (minimum 6$). 
+- Edition 1.1.0 can be purchased [here via Gumroad](https://gum.co/mathemodica-powsys) for as much as this e-book deserves or as much value this e-book brings to you (minimum 6$). 
 
 ##### Remarks 
 
