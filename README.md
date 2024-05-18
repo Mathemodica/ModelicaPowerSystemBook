@@ -26,7 +26,7 @@ Then, have a look at the [Involvement Conditions Section](https://github.com/Mat
 
 ### E-Boook Website 
 
-The individual book chapters and contents updates can be accessed online @ [the scientific discussion platform of the E-book on ResearchGate](https://www.researchgate.net/project/Book-Modelica-By-Application-Power-Systems). Here you can also discuss the contents by commenting the uploaded outline or the relevant chapters. You can provide feedback, suggestions and light contributions. You can report relevant academic publications the authors are not necessarily aware about. 
+The individual book chapters and contents updates can be accessed online @ [the scientific discussion platform of the E-book on ResearchGate](https://www.researchgate.net/profile/Atiyah-Elsheikh/research). Here you can also discuss the contents by commenting the uploaded outline or the relevant chapters. You can provide feedback, suggestions and light contributions. You can report relevant academic publications the authors are not necessarily aware about. 
 
 ### Contents
 
