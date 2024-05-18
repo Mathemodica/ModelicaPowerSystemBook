@@ -17,7 +17,7 @@ or actively by
 - solid read-through reviews 
 - ...  
 
-The light contributions can be publically conducted by commenting the corresponding chapter(s) on [the project website on ResearchGate](https://www.researchgate.net/project/Book-Modelica-By-Application-Power-Systems). The heavy contributions can be directly conducted in the shared latex source code. Details are proposed below. 
+The light contributions can be publically conducted by commenting the corresponding chapter(s) on [the project website on ResearchGate](https://www.researchgate.net/profile/Atiyah-Elsheikh/research). The heavy contributions can be directly conducted in the shared latex source code. Details are proposed below. 
 
 ### Compensations and Awards 
 
